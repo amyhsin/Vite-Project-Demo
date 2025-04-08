@@ -1,0 +1,28 @@
+#root {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #eee;
+}
+.main {
+    width: 850px;
+    padding: 30px;
+    background-color: #f9f9f9;
+}
+
+.img-container {
+    display: flex;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.8;
+}
